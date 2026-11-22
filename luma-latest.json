@@ -1,0 +1,18 @@
+{
+ "tag_name": "v0.9.1.3",
+ "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
+ "prerelease": false,
+ "body": "- 新的 app（com.luma.launcher），用 Luma 自己的金鑰簽名；舊測試版無法直接升級，請另外安裝\n- 備份與還原所有桌面設定\n- 內螢幕的玻璃和柔焦跟外螢幕一致，柔焦可分內外螢幕設定\n- 外觀設定加回動畫速度；玻璃陰影不再每格重算，比較順\n- 桌面編輯可新增頁面、刪除空白頁；控制中心排版時其他項目會讓位\n- 通知標記顯示數字，開啟 app 後消失；建議卡片可以關閉\n- 小工具頁改用模糊桌布背景；內螢幕可加入所有外螢幕的小工具",
+ "assets": [
+  {
+   "name": "Luma-launcher-0.9.1.3.apk",
+   "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.1.3.apk",
+   "size": 8156136
+  },
+  {
+   "name": "SHA256SUMS.txt",
+   "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/SHA256SUMS.txt",
+   "size": 0
+  }
+ ]
+}
