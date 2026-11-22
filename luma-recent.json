@@ -1,5 +1,23 @@
 [
  {
+  "tag_name": "v0.9.1.7",
+  "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
+  "prerelease": false,
+  "body": "- Launcher 設定裡的摺疊動畫（Duet）開關現在會正確顯示\n- 用來測試 App 內更新",
+  "assets": [
+   {
+    "name": "Luma-launcher-0.9.1.7.apk",
+    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.1.7.apk",
+    "size": 8149764
+   },
+   {
+    "name": "SHA256SUMS.txt",
+    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/SHA256SUMS.txt",
+    "size": 0
+   }
+  ]
+ },
+ {
   "tag_name": "v0.9.1.6",
   "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
   "prerelease": false,
