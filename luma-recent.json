@@ -1,5 +1,23 @@
 [
  {
+  "tag_name": "v0.9.1.5",
+  "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
+  "prerelease": false,
+  "body": "- 「牆紙與外觀」改名為「Launcher 設定」\n- Launcher 設定加入摺疊動畫（Duet）開關",
+  "assets": [
+   {
+    "name": "Luma-launcher-0.9.1.5.apk",
+    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.1.5.apk",
+    "size": 8147232
+   },
+   {
+    "name": "SHA256SUMS.txt",
+    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/SHA256SUMS.txt",
+    "size": 0
+   }
+  ]
+ },
+ {
   "tag_name": "v0.9.1.4",
   "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
   "prerelease": false,

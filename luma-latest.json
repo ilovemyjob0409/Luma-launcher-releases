@@ -1,13 +1,13 @@
 {
- "tag_name": "v0.9.1.4",
+ "tag_name": "v0.9.1.5",
  "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
  "prerelease": false,
- "body": "- 設定首頁加回「軟體更新」：有新版時出現紅色數字，按一下就能下載安裝\n- 可選擇自動更新方式（通知我／自動／手動）\n- 從「隱私與權限」返回會回到設定首頁",
+ "body": "- 「牆紙與外觀」改名為「Launcher 設定」\n- Launcher 設定加入摺疊動畫（Duet）開關",
  "assets": [
   {
-   "name": "Luma-launcher-0.9.1.4.apk",
-   "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.1.4.apk",
-   "size": 8147132
+   "name": "Luma-launcher-0.9.1.5.apk",
+   "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.1.5.apk",
+   "size": 8147232
   },
   {
    "name": "SHA256SUMS.txt",
