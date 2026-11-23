@@ -1,13 +1,13 @@
 {
- "tag_name": "v0.9.1.8",
+ "tag_name": "v0.9.2.1",
  "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
  "prerelease": false,
- "body": "- Luma 免費開放到 2026/12/31，設定首頁可以看到剩餘時間\n- 新增「聯絡我」與「輸入開通碼」，開通後永久有效\n- 試用期最後 7 天會在設定裡提醒",
+ "body": "- 新版發佈後約 1 分鐘內就能在 App 裡看到\n- 每次打開「軟體更新」都會自動重新檢查\n- 備份檔不再包含開通碼，換手機後請重新輸入一次",
  "assets": [
   {
-   "name": "Luma-launcher-0.9.1.8.apk",
-   "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.1.8.apk",
-   "size": 8174612
+   "name": "Luma-launcher-0.9.2.1.apk",
+   "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.2.1.apk",
+   "size": 8174776
   },
   {
    "name": "SHA256SUMS.txt",

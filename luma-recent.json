@@ -1,5 +1,23 @@
 [
  {
+  "tag_name": "v0.9.2.1",
+  "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
+  "prerelease": false,
+  "body": "- 新版發佈後約 1 分鐘內就能在 App 裡看到\n- 每次打開「軟體更新」都會自動重新檢查\n- 備份檔不再包含開通碼，換手機後請重新輸入一次",
+  "assets": [
+   {
+    "name": "Luma-launcher-0.9.2.1.apk",
+    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.2.1.apk",
+    "size": 8174776
+   },
+   {
+    "name": "SHA256SUMS.txt",
+    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/SHA256SUMS.txt",
+    "size": 0
+   }
+  ]
+ },
+ {
   "tag_name": "v0.9.1.8",
   "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
   "prerelease": false,
