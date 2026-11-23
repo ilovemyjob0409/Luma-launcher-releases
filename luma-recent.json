@@ -1,5 +1,23 @@
 [
  {
+  "tag_name": "v0.9.2.3",
+  "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
+  "prerelease": false,
+  "body": "- 修正橫幅通知不見的問題：更新後橫幅通知預設開啟",
+  "assets": [
+   {
+    "name": "Luma-launcher-0.9.2.3.apk",
+    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.2.3.apk",
+    "size": 8176388
+   },
+   {
+    "name": "SHA256SUMS.txt",
+    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/SHA256SUMS.txt",
+    "size": 0
+   }
+  ]
+ },
+ {
   "tag_name": "v0.9.2.2",
   "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
   "prerelease": false,
