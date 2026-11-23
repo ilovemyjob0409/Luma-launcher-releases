@@ -1,13 +1,13 @@
 {
- "tag_name": "v0.9.2.7",
+ "tag_name": "v0.9.2.8",
  "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
  "prerelease": false,
- "body": "- 外觀新增「霧面」拉桿，可自己調整首頁玻璃的霧度，並即時預覽\n- 橫幅通知在任何畫面都是同一種透明玻璃，不再出現實心白卡\n- 直向內螢幕：Dock 和狀態列更靠右，圖示放大約 10%",
+ "body": "- 首頁編輯新增「加入 App」，可勾選多個 App 一次加入主畫面\n- App 資源庫新增「新下載」分類\n- 圖示玻璃效果更貼合圖示\n- 霧面拉桿也套用到控制中心、通知中心和懸浮狀態列\n- 打開資料夾更順；修正方向鎖定顛倒、外螢幕面板超出玻璃",
  "assets": [
   {
-   "name": "Luma-launcher-0.9.2.7.apk",
-   "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.2.7.apk",
-   "size": 8230216
+   "name": "Luma-launcher-0.9.2.8.apk",
+   "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.2.8.apk",
+   "size": 8249004
   },
   {
    "name": "SHA256SUMS.txt",
