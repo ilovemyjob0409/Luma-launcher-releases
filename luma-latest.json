@@ -1,13 +1,13 @@
 {
- "tag_name": "v0.9.2.4",
+ "tag_name": "v0.9.2.5",
  "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
  "prerelease": false,
- "body": "- Launcher 設定加入「橫幅通知」：可以開關，也能調整透明度\n- 調整時有即時預覽，馬上看到效果",
+ "body": "- 外螢幕和內螢幕可以設定不同的 Luma 桌布\n- 懸浮狀態列的時間會即時同步，不再慢幾分鐘\n- 橫幅通知透明度的預覽會即時變化",
  "assets": [
   {
-   "name": "Luma-launcher-0.9.2.4.apk",
-   "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.2.4.apk",
-   "size": 8179236
+   "name": "Luma-launcher-0.9.2.5.apk",
+   "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.2.5.apk",
+   "size": 8180552
   },
   {
    "name": "SHA256SUMS.txt",
