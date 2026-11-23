@@ -1,5 +1,23 @@
 [
  {
+  "tag_name": "v0.9.2.6",
+  "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
+  "prerelease": false,
+  "body": "- Launcher 設定全新整理：桌布、外觀、通知與狀態列、動態效果\n- 桌布可分別調整內外螢幕、直向橫向的位置、縮放和柔焦\n- 狀態列可顯示電池百分比，低於 20% 變紅色\n- 資料夾一頁 9 個，可左右翻頁，badge 不再被切到\n- 今天頁的建議卡片可在編輯模式勾選開關",
+  "assets": [
+   {
+    "name": "Luma-launcher-0.9.2.6.apk",
+    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.2.6.apk",
+    "size": 8229468
+   },
+   {
+    "name": "SHA256SUMS.txt",
+    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/SHA256SUMS.txt",
+    "size": 92
+   }
+  ]
+ },
+ {
   "tag_name": "v0.9.2.5",
   "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
   "prerelease": false,
@@ -153,24 +171,6 @@
     "name": "Luma-launcher-0.9.1.5.apk",
     "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.1.5.apk",
     "size": 8147232
-   },
-   {
-    "name": "SHA256SUMS.txt",
-    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/SHA256SUMS.txt",
-    "size": 0
-   }
-  ]
- },
- {
-  "tag_name": "v0.9.1.4",
-  "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
-  "prerelease": false,
-  "body": "- 設定首頁加回「軟體更新」：有新版時出現紅色數字，按一下就能下載安裝\n- 可選擇自動更新方式（通知我／自動／手動）\n- 從「隱私與權限」返回會回到設定首頁",
-  "assets": [
-   {
-    "name": "Luma-launcher-0.9.1.4.apk",
-    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.1.4.apk",
-    "size": 8147132
    },
    {
     "name": "SHA256SUMS.txt",

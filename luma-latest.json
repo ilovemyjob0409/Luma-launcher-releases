@@ -1,18 +1,18 @@
 {
- "tag_name": "v0.9.2.5",
+ "tag_name": "v0.9.2.6",
  "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
  "prerelease": false,
- "body": "- 外螢幕和內螢幕可以設定不同的 Luma 桌布\n- 懸浮狀態列的時間會即時同步，不再慢幾分鐘\n- 橫幅通知透明度的預覽會即時變化",
+ "body": "- Launcher 設定全新整理：桌布、外觀、通知與狀態列、動態效果\n- 桌布可分別調整內外螢幕、直向橫向的位置、縮放和柔焦\n- 狀態列可顯示電池百分比，低於 20% 變紅色\n- 資料夾一頁 9 個，可左右翻頁，badge 不再被切到\n- 今天頁的建議卡片可在編輯模式勾選開關",
  "assets": [
   {
-   "name": "Luma-launcher-0.9.2.5.apk",
-   "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.2.5.apk",
-   "size": 8180552
+   "name": "Luma-launcher-0.9.2.6.apk",
+   "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.2.6.apk",
+   "size": 8229468
   },
   {
    "name": "SHA256SUMS.txt",
    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/SHA256SUMS.txt",
-   "size": 0
+   "size": 92
   }
  ]
 }
