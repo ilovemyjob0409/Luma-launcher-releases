@@ -2,6 +2,8 @@
 
 一款致敬 [Folio](https://github.com/McCal-Codes/folio) 的 Android 桌面啟動器：首頁、Dock、資料夾、控制中心和通知中心，都換成會折射背景的 liquid glass（液態玻璃）介面。
 
+📖 **[使用說明書](MANUAL.md)**：安裝、權限、桌面操作、Launcher 設定、懸浮狀態列（含 Good Lock QuickStar 設定）和常見問題。
+
 ## 下載安裝
 
 1. 下載這裡的 `Luma-launcher-*.apk`（只會有一個，就是最新版）。
