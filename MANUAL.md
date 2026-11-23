@@ -11,19 +11,19 @@
 
 ## 簡介與安裝
 
-Luma launcher 是一款仿 iPhone 風格的 Android 桌面，為摺疊機的外螢幕和內螢幕分別最佳化。目前開放免費使用到 2026 年 12 月 31 日，之後需要購買啟用碼。
+Luma launcher 是一款仿 iPhone 風格的 Android 桌面，為摺疊機的外螢幕和內螢幕分別最佳化。目前開放免費使用到 2026 年 12 月 31 日，之後需要購買開通碼。
 
 1. 到 [Luma launcher 下載頁](https://github.com/ilovemyjob0409/Luma-launcher-releases) 下載最新的 APK。
 2. 打開 APK 安裝；若手機提示「不明來源」，請允許瀏覽器或檔案管理員安裝 App。
 3. 按手機的 Home 鍵，選「Luma launcher」並設為「一律」，它就會成為預設主畫面。
 4. 第一次打開時，依畫面指示開啟需要的權限（見下一節）。
 
-### 試用期與啟用碼
+### 試用期與開通碼
 
 - 2026 年 12 月 31 日之前，所有功能都可以免費使用，不需要註冊。
-- **試用到期後，需要購買啟用碼才能繼續使用。** 打開 Luma 會出現提示畫面，按「Contact me」，或直接到 Threads 私訊開發者 [@i__wade](https://www.threads.com/@i__wade) 購買啟用碼。
-- 收到啟用碼後，在 Luma 裡按「輸入開通碼」貼上，就會永久啟用，不需要連網。
-- 重新安裝或換手機後，只要再輸入一次同一組啟用碼。
+- **試用到期後，需要購買開通碼才能繼續使用。** 打開 Luma 會出現提示畫面，按「Contact me」，或直接到 Threads 私訊開發者 [@i__wade](https://www.threads.com/@i__wade) 購買開通碼。
+- 收到開通碼後，在 Luma 裡按「輸入開通碼」貼上，就會永久開通，不需要連網。
+- 重新安裝或換手機後，只要再輸入一次同一組開通碼。
 - 不想購買的話，在提示畫面按「換回原本的桌面」，選回手機原本的桌面即可。
 
 ## 權限設定
@@ -134,4 +134,4 @@ Good Lock 和 QuickStar 是 Samsung 的 App，只適用於 Galaxy 手機；各�
 
 ### 聯絡開發者
 
-問題回報、建議或購買啟用碼，請到 Threads 私訊 [@i__wade](https://www.threads.com/@i__wade)。
+問題回報、建議或購買開通碼，請到 Threads 私訊 [@i__wade](https://www.threads.com/@i__wade)。
