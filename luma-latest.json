@@ -1,13 +1,13 @@
 {
- "tag_name": "v0.9.3.4",
+ "tag_name": "v0.9.3.5",
  "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
  "prerelease": false,
- "body": "- 打開資料夾明顯更順（資料夾不再另開一個視窗）\n- 左右滑動頁面停下來時不再抖動\n- 控制中心下拉時一開始就在正確位置，不再先偏下再跳回\n- Dock 改成 iPhone Duo 的形狀與間距\n- 外觀新增「Dock」設定：內、外螢幕分別調整 Dock 上下位置，並即時預覽",
+ "body": "- 外觀 › Dock 加回「全寬主畫面」：Dock 移到下方、App 排滿整個寬度，適合一般直板手機\n- App 頂端正中間讓給原廠多工橫槓，可以正常叫出分割畫面和彈出式視窗",
  "assets": [
   {
-   "name": "Luma-launcher-0.9.3.4.apk",
-   "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.3.4.apk",
-   "size": 8501023
+   "name": "Luma-launcher-0.9.3.5.apk",
+   "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.3.5.apk",
+   "size": 8519111
   },
   {
    "name": "SHA256SUMS.txt",

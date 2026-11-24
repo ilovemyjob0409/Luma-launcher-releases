@@ -1,5 +1,23 @@
 [
  {
+  "tag_name": "v0.9.3.5",
+  "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
+  "prerelease": false,
+  "body": "- 外觀 › Dock 加回「全寬主畫面」：Dock 移到下方、App 排滿整個寬度，適合一般直板手機\n- App 頂端正中間讓給原廠多工橫槓，可以正常叫出分割畫面和彈出式視窗",
+  "assets": [
+   {
+    "name": "Luma-launcher-0.9.3.5.apk",
+    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.3.5.apk",
+    "size": 8519111
+   },
+   {
+    "name": "SHA256SUMS.txt",
+    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/SHA256SUMS.txt",
+    "size": 92
+   }
+  ]
+ },
+ {
   "tag_name": "v0.9.3.4",
   "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
   "prerelease": false,
@@ -153,24 +171,6 @@
     "name": "Luma-launcher-0.9.2.4.apk",
     "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.2.4.apk",
     "size": 8179236
-   },
-   {
-    "name": "SHA256SUMS.txt",
-    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/SHA256SUMS.txt",
-    "size": 0
-   }
-  ]
- },
- {
-  "tag_name": "v0.9.2.3",
-  "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
-  "prerelease": false,
-  "body": "- 修正橫幅通知不見的問題：更新後橫幅通知預設開啟",
-  "assets": [
-   {
-    "name": "Luma-launcher-0.9.2.3.apk",
-    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.2.3.apk",
-    "size": 8176388
    },
    {
     "name": "SHA256SUMS.txt",
