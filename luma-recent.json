@@ -1,5 +1,23 @@
 [
  {
+  "tag_name": "v0.9.3.2",
+  "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
+  "prerelease": false,
+  "body": "- 首頁滑動、開資料夾大幅變順（圖示與玻璃效果改為快取）\n- 內螢幕首頁和今天頁在 Dock 旁不再出現硬邊，也不會露出下一頁\n- 通知中心、控制中心從第一格就在正確位置",
+  "assets": [
+   {
+    "name": "Luma-launcher-0.9.3.2.apk",
+    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.3.2.apk",
+    "size": 8480471
+   },
+   {
+    "name": "SHA256SUMS.txt",
+    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/SHA256SUMS.txt",
+    "size": 92
+   }
+  ]
+ },
+ {
   "tag_name": "v0.9.3.1",
   "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
   "prerelease": false,
@@ -153,24 +171,6 @@
     "name": "Luma-launcher-0.9.2.1.apk",
     "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.2.1.apk",
     "size": 8174776
-   },
-   {
-    "name": "SHA256SUMS.txt",
-    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/SHA256SUMS.txt",
-    "size": 0
-   }
-  ]
- },
- {
-  "tag_name": "v0.9.1.8",
-  "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
-  "prerelease": false,
-  "body": "- Luma 免費開放到 2026/12/31，設定首頁可以看到剩餘時間\n- 新增「聯絡我」與「輸入開通碼」，開通後永久有效\n- 試用期最後 7 天會在設定裡提醒",
-  "assets": [
-   {
-    "name": "Luma-launcher-0.9.1.8.apk",
-    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.1.8.apk",
-    "size": 8174612
    },
    {
     "name": "SHA256SUMS.txt",

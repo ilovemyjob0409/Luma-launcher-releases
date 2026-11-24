@@ -1,1 +1,1 @@
-e3abe000e9d6024be809955ee37c9a872a28238ac3a9673a3230fbea9624859e  Luma-launcher-0.9.3.1.apk
+0dd5fbbe19fbef5f2ac8cd77b42fc09fd52a108d6d8113b1783a4eb5d13b66fa  Luma-launcher-0.9.3.2.apk
