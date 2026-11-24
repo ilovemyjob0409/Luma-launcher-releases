@@ -1,0 +1,39 @@
+# Luma launcher: makes the GitHub Release for the version in luma-latest.json, with its APK and SHA256SUMS.txt,
+# whenever a new version is pushed. A version that already has a Release is left as it is.
+name: Release
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - luma-latest.json
+      - .github/workflows/release.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Create the release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          tag=$(jq -r .tag_name luma-latest.json)
+          version=${tag#v}
+          apk="Luma-launcher-${version}.apk"
+          if gh release view "$tag" >/dev/null 2>&1; then
+            echo "Release $tag already exists."
+            exit 0
+          fi
+          test -f "$apk"
+          jq -r .body luma-latest.json > notes.md
+          gh release create "$tag" "$apk" SHA256SUMS.txt \
+            --target "$GITHUB_SHA" \
+            --title "Luma launcher ${version}" \
+            --notes-file notes.md \
+            --latest
