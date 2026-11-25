@@ -1,13 +1,13 @@
 {
- "tag_name": "v0.9.5.4",
+ "tag_name": "v0.9.5.5",
  "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
  "prerelease": false,
- "body": "- 動態效果新增「手勢」：連點兩下主畫面鎖定螢幕\n- 通知與狀態列新增「電信業者顯示文字」：鎖定畫面和控制中心的電信業者名稱可以改成自己的文字",
+ "body": "- 摺疊機模式：開靜音時狀態列多了圖示，Dock 不再跟著往下，只有真的會碰到時才讓開\n- 右下角搜尋按鈕開啟時，左邊小工具頁不再多出箭頭和搜尋兩顆按鈕，Dock 高度和主畫面一致",
  "assets": [
   {
-   "name": "Luma-launcher-0.9.5.4.apk",
-   "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.5.4.apk",
-   "size": 8545751
+   "name": "Luma-launcher-0.9.5.5.apk",
+   "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.5.5.apk",
+   "size": 8545855
   },
   {
    "name": "SHA256SUMS.txt",

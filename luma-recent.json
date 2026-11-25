@@ -1,5 +1,23 @@
 [
  {
+  "tag_name": "v0.9.5.5",
+  "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
+  "prerelease": false,
+  "body": "- 摺疊機模式：開靜音時狀態列多了圖示，Dock 不再跟著往下，只有真的會碰到時才讓開\n- 右下角搜尋按鈕開啟時，左邊小工具頁不再多出箭頭和搜尋兩顆按鈕，Dock 高度和主畫面一致",
+  "assets": [
+   {
+    "name": "Luma-launcher-0.9.5.5.apk",
+    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.5.5.apk",
+    "size": 8545855
+   },
+   {
+    "name": "SHA256SUMS.txt",
+    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/SHA256SUMS.txt",
+    "size": 92
+   }
+  ]
+ },
+ {
   "tag_name": "v0.9.5.4",
   "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
   "prerelease": false,
@@ -153,24 +171,6 @@
     "name": "Luma-launcher-0.9.2.8.apk",
     "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.2.8.apk",
     "size": 8249004
-   },
-   {
-    "name": "SHA256SUMS.txt",
-    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/SHA256SUMS.txt",
-    "size": 92
-   }
-  ]
- },
- {
-  "tag_name": "v0.9.2.7",
-  "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
-  "prerelease": false,
-  "body": "- 外觀新增「霧面」拉桿，可自己調整首頁玻璃的霧度，並即時預覽\n- 橫幅通知在任何畫面都是同一種透明玻璃，不再出現實心白卡\n- 直向內螢幕：Dock 和狀態列更靠右，圖示放大約 10%",
-  "assets": [
-   {
-    "name": "Luma-launcher-0.9.2.7.apk",
-    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.2.7.apk",
-    "size": 8230216
    },
    {
     "name": "SHA256SUMS.txt",
