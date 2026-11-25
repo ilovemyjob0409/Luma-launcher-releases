@@ -1,13 +1,13 @@
 {
- "tag_name": "v0.9.5.1",
+ "tag_name": "v0.9.5.4",
  "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
  "prerelease": false,
- "body": "- 設定新增「手機類型」：第一次打開設定先選直板機模式或摺疊機模式，之後可隨時更改\n- 直板機模式：Dock 置底、App 排滿寬度、頁面圓點在 Dock 上方\n- 直板機模式：主畫面與其他 App 顯示 Luma 傳統狀態列，可調大小、上下位置、左右邊距\n- 直板機模式：從頂端左右往下拉打開 Luma 通知中心與控制中心\n- 底部頁面條只剩圓點，滑動結束 0.5 秒後淡出\n- 通知與狀態列新增「顯示狀態列」開關",
+ "body": "- 動態效果新增「手勢」：連點兩下主畫面鎖定螢幕\n- 通知與狀態列新增「電信業者顯示文字」：鎖定畫面和控制中心的電信業者名稱可以改成自己的文字",
  "assets": [
   {
-   "name": "Luma-launcher-0.9.5.1.apk",
-   "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.5.1.apk",
-   "size": 8526067
+   "name": "Luma-launcher-0.9.5.4.apk",
+   "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.5.4.apk",
+   "size": 8545751
   },
   {
    "name": "SHA256SUMS.txt",
