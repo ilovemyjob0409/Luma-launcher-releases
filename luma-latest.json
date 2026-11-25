@@ -1,13 +1,13 @@
 {
- "tag_name": "v0.9.3.5",
+ "tag_name": "v0.9.3.6",
  "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
  "prerelease": false,
- "body": "- 外觀 › Dock 加回「全寬主畫面」：Dock 移到下方、App 排滿整個寬度，適合一般直板手機\n- App 頂端正中間讓給原廠多工橫槓，可以正常叫出分割畫面和彈出式視窗",
+ "body": "- 搜尋改成右下角的液態玻璃放大鏡按鈕（外觀 › 搜尋，可改回下方搜尋列）\n- 主畫面下方平常隱藏，左右滑動時才淡入頁面圓點與兩側按鈕，停下後慢慢淡出\n- 直向內螢幕左右留白一致\n- 搜尋畫面背後的模糊跟著霧面拉桿\n- 全寬主畫面時資料夾內 App 名稱不再被切掉",
  "assets": [
   {
-   "name": "Luma-launcher-0.9.3.5.apk",
-   "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.3.5.apk",
-   "size": 8519111
+   "name": "Luma-launcher-0.9.3.6.apk",
+   "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.3.6.apk",
+   "size": 8521135
   },
   {
    "name": "SHA256SUMS.txt",
