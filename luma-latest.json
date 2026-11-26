@@ -1,13 +1,13 @@
 {
- "tag_name": "v0.9.5.6",
+ "tag_name": "v0.9.6.1",
  "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
  "prerelease": false,
- "body": "- 傳統狀態列在訊號格旁顯示網路類型（5G、4G、3G），連著 Wi-Fi 也顯示\n- 控制中心的行動數據與電信業者名稱旁也顯示網路類型，例如「中華電信 5G」",
+ "body": "- 點橫幅通知會直接打開該 App（Android 14 以上原本點了沒反應）\n- 主畫面調整後的「撤銷」按鈕會自動淡出，時間可在動態效果 › 主畫面編輯調整（2～30 秒或不消失，預設 5 秒）",
  "assets": [
   {
-   "name": "Luma-launcher-0.9.5.6.apk",
-   "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.5.6.apk",
-   "size": 8545975
+   "name": "Luma-launcher-0.9.6.1.apk",
+   "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.6.1.apk",
+   "size": 8548847
   },
   {
    "name": "SHA256SUMS.txt",
