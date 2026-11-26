@@ -1,5 +1,23 @@
 [
  {
+  "tag_name": "v0.9.6.2",
+  "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
+  "prerelease": false,
+  "body": "- 設定首頁每個類別下方顯示裡面有哪些功能\n- 「動態效果」改名為「手勢與動畫」",
+  "assets": [
+   {
+    "name": "Luma-launcher-0.9.6.2.apk",
+    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.6.2.apk",
+    "size": 8551987
+   },
+   {
+    "name": "SHA256SUMS.txt",
+    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/SHA256SUMS.txt",
+    "size": 92
+   }
+  ]
+ },
+ {
   "tag_name": "v0.9.6.1",
   "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
   "prerelease": false,
@@ -153,24 +171,6 @@
     "name": "Luma-launcher-0.9.3.3.apk",
     "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.3.3.apk",
     "size": 8498119
-   },
-   {
-    "name": "SHA256SUMS.txt",
-    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/SHA256SUMS.txt",
-    "size": 92
-   }
-  ]
- },
- {
-  "tag_name": "v0.9.3.2",
-  "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
-  "prerelease": false,
-  "body": "- 首頁滑動、開資料夾大幅變順（圖示與玻璃效果改為快取）\n- 內螢幕首頁和今天頁在 Dock 旁不再出現硬邊，也不會露出下一頁\n- 通知中心、控制中心從第一格就在正確位置",
-  "assets": [
-   {
-    "name": "Luma-launcher-0.9.3.2.apk",
-    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.3.2.apk",
-    "size": 8480471
    },
    {
     "name": "SHA256SUMS.txt",

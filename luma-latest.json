@@ -1,13 +1,13 @@
 {
- "tag_name": "v0.9.6.1",
+ "tag_name": "v0.9.6.2",
  "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
  "prerelease": false,
- "body": "- 點橫幅通知會直接打開該 App（Android 14 以上原本點了沒反應）\n- 主畫面調整後的「撤銷」按鈕會自動淡出，時間可在動態效果 › 主畫面編輯調整（2～30 秒或不消失，預設 5 秒）",
+ "body": "- 設定首頁每個類別下方顯示裡面有哪些功能\n- 「動態效果」改名為「手勢與動畫」",
  "assets": [
   {
-   "name": "Luma-launcher-0.9.6.1.apk",
-   "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.6.1.apk",
-   "size": 8548847
+   "name": "Luma-launcher-0.9.6.2.apk",
+   "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.6.2.apk",
+   "size": 8551987
   },
   {
    "name": "SHA256SUMS.txt",
