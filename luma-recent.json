@@ -1,5 +1,23 @@
 [
  {
+  "tag_name": "v0.9.6.3",
+  "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
+  "prerelease": false,
+  "body": "- 直板機模式：傳統狀態列依背景自動切換黑白（App 裡偵測狀態列背景，主畫面依桌布）\n- 通知中心的清除全部按鈕加上按壓效果與震動",
+  "assets": [
+   {
+    "name": "Luma-launcher-0.9.6.3.apk",
+    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.6.3.apk",
+    "size": 8552067
+   },
+   {
+    "name": "SHA256SUMS.txt",
+    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/SHA256SUMS.txt",
+    "size": 92
+   }
+  ]
+ },
+ {
   "tag_name": "v0.9.6.2",
   "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
   "prerelease": false,
@@ -153,24 +171,6 @@
     "name": "Luma-launcher-0.9.3.4.apk",
     "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.3.4.apk",
     "size": 8501023
-   },
-   {
-    "name": "SHA256SUMS.txt",
-    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/SHA256SUMS.txt",
-    "size": 92
-   }
-  ]
- },
- {
-  "tag_name": "v0.9.3.3",
-  "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
-  "prerelease": false,
-  "body": "- 打開資料夾的動畫更絲滑\n- 外觀新增「資料夾霧面」拉桿，可單獨調整資料夾玻璃的霧度，並即時預覽\n- 玻璃霧面拉桿改為每格 10%",
-  "assets": [
-   {
-    "name": "Luma-launcher-0.9.3.3.apk",
-    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.3.3.apk",
-    "size": 8498119
    },
    {
     "name": "SHA256SUMS.txt",

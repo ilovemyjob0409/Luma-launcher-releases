@@ -1,13 +1,13 @@
 {
- "tag_name": "v0.9.6.2",
+ "tag_name": "v0.9.6.3",
  "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
  "prerelease": false,
- "body": "- 設定首頁每個類別下方顯示裡面有哪些功能\n- 「動態效果」改名為「手勢與動畫」",
+ "body": "- 直板機模式：傳統狀態列依背景自動切換黑白（App 裡偵測狀態列背景，主畫面依桌布）\n- 通知中心的清除全部按鈕加上按壓效果與震動",
  "assets": [
   {
-   "name": "Luma-launcher-0.9.6.2.apk",
-   "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.6.2.apk",
-   "size": 8551987
+   "name": "Luma-launcher-0.9.6.3.apk",
+   "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.6.3.apk",
+   "size": 8552067
   },
   {
    "name": "SHA256SUMS.txt",
