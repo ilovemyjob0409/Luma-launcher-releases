@@ -1,13 +1,13 @@
 {
- "tag_name": "v0.9.6.3",
+ "tag_name": "v0.9.6.6",
  "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
  "prerelease": false,
- "body": "- 直板機模式：傳統狀態列依背景自動切換黑白（App 裡偵測狀態列背景，主畫面依桌布）\n- 通知中心的清除全部按鈕加上按壓效果與震動",
+ "body": "- 直板機模式：鎖定畫面頂端也會顯示 Luma 狀態列（左邊顯示電信業者或自訂文字，右邊是訊號、網路類型、Wi-Fi、電量）\n- 開啟無障礙服務前，會先說明 Luma 用它做什麼，同意後才前往設定",
  "assets": [
   {
-   "name": "Luma-launcher-0.9.6.3.apk",
-   "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.6.3.apk",
-   "size": 8552067
+   "name": "Luma-launcher-0.9.6.6.apk",
+   "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.6.6.apk",
+   "size": 8980483
   },
   {
    "name": "SHA256SUMS.txt",

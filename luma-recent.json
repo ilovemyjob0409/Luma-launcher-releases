@@ -1,5 +1,23 @@
 [
  {
+  "tag_name": "v0.9.6.6",
+  "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
+  "prerelease": false,
+  "body": "- 直板機模式：鎖定畫面頂端也會顯示 Luma 狀態列（左邊顯示電信業者或自訂文字，右邊是訊號、網路類型、Wi-Fi、電量）\n- 開啟無障礙服務前，會先說明 Luma 用它做什麼，同意後才前往設定",
+  "assets": [
+   {
+    "name": "Luma-launcher-0.9.6.6.apk",
+    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.6.6.apk",
+    "size": 8980483
+   },
+   {
+    "name": "SHA256SUMS.txt",
+    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/SHA256SUMS.txt",
+    "size": 92
+   }
+  ]
+ },
+ {
   "tag_name": "v0.9.6.3",
   "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
   "prerelease": false,
@@ -153,24 +171,6 @@
     "name": "Luma-launcher-0.9.3.5.apk",
     "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.3.5.apk",
     "size": 8519111
-   },
-   {
-    "name": "SHA256SUMS.txt",
-    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/SHA256SUMS.txt",
-    "size": 92
-   }
-  ]
- },
- {
-  "tag_name": "v0.9.3.4",
-  "html_url": "https://github.com/ilovemyjob0409/Luma-launcher-releases",
-  "prerelease": false,
-  "body": "- 打開資料夾明顯更順（資料夾不再另開一個視窗）\n- 左右滑動頁面停下來時不再抖動\n- 控制中心下拉時一開始就在正確位置，不再先偏下再跳回\n- Dock 改成 iPhone Duo 的形狀與間距\n- 外觀新增「Dock」設定：內、外螢幕分別調整 Dock 上下位置，並即時預覽",
-  "assets": [
-   {
-    "name": "Luma-launcher-0.9.3.4.apk",
-    "browser_download_url": "https://raw.githubusercontent.com/ilovemyjob0409/Luma-launcher-releases/main/Luma-launcher-0.9.3.4.apk",
-    "size": 8501023
    },
    {
     "name": "SHA256SUMS.txt",
